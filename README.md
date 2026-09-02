@@ -11,4 +11,4 @@ Pure static HTML/CSS. No build step required.
 
 ## Deploy
 
-Hosted via GitHub Pages on the `main` branch.
+Live at [scszero.com](https://scszero.com/). Hosted via GitHub Pages on the `main` branch.
